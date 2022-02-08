@@ -10,7 +10,7 @@ I am looking for an entry-level data scientist position.
 - 👯 I’m looking to collaborate on any projects that involve data collection, storage, analysis, and machine learning.
 - 📫 How to reach me: 
   - Email: zhengen@ualberta.ca
-  - LinkedIn: linkedin.com/in/eve-than/
+  - LinkedIn: <a href="linkedin.com/in/eve-than/" target="_blank">Eve Than on LinkedIn</a>
 - 😄 Pronouns: She/her
 - 📍 Location: Alberta, Canada
 - ⚡ Fun fact: 
