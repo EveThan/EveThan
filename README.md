@@ -25,3 +25,8 @@ Some of the projects I have worked on/participated in:
 - <a href="https://github.com/EveThan/Topic-Modeling" target="_blank">Topic Modeling Using LSA and LDA</a>
 - <a href="https://github.com/EveThan/Amazon-Recommender-System" target="_blank">Recommender System Based on Amazon Beauty Product Ratings using Collaborative Filtering</a>
 - <a href="https://github.com/EveThan/FeelsLog" target="_blank">FeelsLog: Mood Tracker Android Application</a>
+
+
+<p align="center">
+  ![octocat_2022](https://user-images.githubusercontent.com/46462603/153078752-7dab9d44-9fe1-4db6-a080-40533c32c85b.png)
+</p>
