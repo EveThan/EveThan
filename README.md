@@ -28,5 +28,5 @@ Some of the projects I have worked on/participated in:
 
 
 <p align="center">
-  <img width="1220" alt="Octocat" src="https://user-images.githubusercontent.com/46462603/153078959-ab77582c-39b8-48a9-ab19-c1f6ee6773d6.png">
+  <img width="800" alt="Octocat" src="https://user-images.githubusercontent.com/46462603/153078959-ab77582c-39b8-48a9-ab19-c1f6ee6773d6.png">
 </p>
