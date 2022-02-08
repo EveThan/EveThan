@@ -13,7 +13,9 @@ I am looking for an entry-level data scientist position.
   - LinkedIn: linkedin.com/in/eve-than/
 - 😄 Pronouns: She/her
 - 📍 Location: Alberta, Canada
-- ⚡ Fun fact: I won Best Use of Google Cloud in HackED 2022!
+- ⚡ Fun fact: 
+  - I won Best Use of Google Cloud in HackED 2022! 
+  - I absolutely love using Google Colab.
 
 Some of the projects I have worked on/participated in:
 - <a href="https://github.com/EveThan/HackED_2022_Notes-on-paper" target="_blank">Notes on Paper: Winner of Best use of Google Cloud in HackED 2022</a>
