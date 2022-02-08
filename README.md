@@ -13,7 +13,7 @@ I am looking for an entry-level data scientist position.
   - LinkedIn: <a href="linkedin.com/in/eve-than/" target="_blank">Eve Than on LinkedIn</a>
 - 😄 Pronouns: She/her
 - 📍 Location: Alberta, Canada
-- ⚡ Fun fact: 
+- ⚡ Fun facts: 
   - I won Best Use of Google Cloud in HackED 2022! 
   - I absolutely love using Google Colab.
 
