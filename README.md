@@ -1,5 +1,7 @@
 ### Hi! 👋
 
+<a href="https://github.com/EveThan/Parks-Recs_Face_Recognition/files/8028866/Resume.pdf" target="_blank">Resume</a>
+
 I am Eve Than. I am an aspiring data scientist and data analyst who loves telling stories with data and make cool predictions! 
 I am looking for an entry-level data scientist position.
 
