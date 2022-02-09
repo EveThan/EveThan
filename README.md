@@ -7,7 +7,7 @@ I am looking for an entry-level data scientist position.
 
 - 👩‍💻 I'm currently working as a Data Scientist Intern at Memoryz.
 - 🔭 I’m currently working on creating a resume parser with optical character recognition (OCR) using SpaCy.
-- 📖 I have completed courses such as Numerical Methods, Machine Learning, and IBM Data Science Professional Certificate.
+- 📖 I have completed courses such as Applied Statistics, Numerical Methods, Machine Learning, and IBM Data Science Professional Certificate.
 - 🌱 I’m currently taking Reinforcement Learning and IBM Data Engineering Professional Certificate courses.
 - 👯 I’m looking to collaborate on any projects that involve data collection, storage, analysis, and machine learning.
 - 📫 How to reach me: 
