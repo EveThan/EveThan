@@ -1,9 +1,6 @@
 ### Hi! 👋
 
-<a href="https://github.com/EveThan/EveThan/files/8029150/Resume.pdf" target="_blank">Resume</a>
-
 I am Eve Than. I am an aspiring data scientist and data analyst who loves telling stories with data and make cool predictions! 
-I am looking for an entry-level data scientist position.
 
 - 👩‍💻 I'm currently working as a Data Scientist Intern at Memoryz.
 - 🔭 I’m currently working on creating a resume parser with optical character recognition (OCR) using SpaCy.
