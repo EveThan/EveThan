@@ -2,9 +2,8 @@
 
 I am Eve Than!
 
-- 👩‍💻 I'm currently working as a Data Scientist Intern at Memoryz.
-- 📈 I'm an incoming Data Analyst at LawDepot.
-- 👯 I’m looking to collaborate on any projects that involve data collection, storage, analysis, and machine learning.
+- 👩‍💻 I'm currently working as a Data Analyst at LawDepot.
+- 👯 I’m open to collaborate in any projects that involve data collection, storage, analysis, and machine learning.
 - 📫 How to reach me: 
   - Email: zhengen@ualberta.ca
   - LinkedIn: <a href="https://www.linkedin.com/in/eve-than/" target="https://www.linkedin.com/in/eve-than/">Eve Than on LinkedIn</a>
