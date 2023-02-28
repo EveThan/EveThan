@@ -1,14 +1,6 @@
 ### Hi! 👋
 
-I am Eve Than!
-
-- 👩‍💻 I'm currently working as a Data Analyst at LawDepot.
-- 👯 I’m open to collaborate in any projects that involve data collection, storage, analysis, and machine learning.
-- 📫 How to reach me: 
-  - Email: zhengen@ualberta.ca
-  - LinkedIn: <a href="https://www.linkedin.com/in/eve-than/" target="https://www.linkedin.com/in/eve-than/">Eve Than on LinkedIn</a>
-- 😄 Pronouns: She/her
-- 📍 Location: Alberta, Canada
+I am Eve (Zheng En) Than!
 
 Some of the projects I have worked on/participated in:
 - <a href="https://github.com/EveThan/HackED_2022_Notes-on-paper" target="_blank">Notes on Paper: Winner of Best use of Google Cloud in HackED 2022</a>
