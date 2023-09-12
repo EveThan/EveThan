@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I am Eve (Zheng En) Than!
+I am Zheng En (Eve) Than!
 
 Some of the projects I have worked on/participated in:
 - <a href="https://github.com/EveThan/HackED_2022_Notes-on-paper" target="_blank">Notes on Paper: Winner of Best use of Google Cloud in HackED 2022</a>
