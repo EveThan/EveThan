@@ -2,7 +2,7 @@
 
 I am Zheng En (Eve) Than!
 
-Some of the projects I have worked on/participated in:
+Here are some of the projects that I have worked on/participated in:
 - <a href="https://github.com/EveThan/HackED_2022_Notes-on-paper" target="_blank">Notes on Paper: Winner of Best use of Google Cloud in HackED 2022</a>
 - <a href="https://github.com/EveThan/Waste-Classification" target="_blank">Waste Image Classification Website using InceptionV3</a>
 - <a href="https://github.com/EveThan/Parks-Recs_Face_Recognition" target="_blank">Parks and Recreation Characters Face Recognition in Video using VGG-Face Model</a>
