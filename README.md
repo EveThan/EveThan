@@ -3,9 +3,12 @@
 I am Eve (Zheng En) Than!
 
 Here are some of the projects that I have worked on/participated in:
+#### Recent
 - <a href="https://github.com/EveThan/Google-Merchandise-Store-Conversion-Funnel-Dashboard">Google Merchandise Store — E-commerce Data Conversion Funnel Dashboard</a>
 - <a href="https://github.com/Hyshubham2504/Clustering-Based-Approach-as-an-Alternative-to-Industry-Classification">Clustering-Based Approach as an Alternative to Industry Classification</a>
+#### Award
 - <a href="https://github.com/EveThan/HackED_2022_Notes-on-paper" target="_blank">Notes on Paper: Winner of Best use of Google Cloud in HackED 2022</a>
+#### Other
 - <a href="https://github.com/EveThan/Waste-Classification" target="_blank">Waste Image Classification Website using InceptionV3</a>
 - <a href="https://github.com/EveThan/Parks-Recs_Face_Recognition" target="_blank">Parks and Recreation Characters Face Recognition in Video using VGG-Face Model</a>
 - <a href="https://github.com/EveThan/Speech-Emotion-Classification" target="_blank">Speech Emotion Classification using ANN</a>
