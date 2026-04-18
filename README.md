@@ -4,6 +4,7 @@ I am Eve (Zheng En) Than!
 
 Here are some of the projects that I have worked on/participated in:
 #### Recent
+- <a href="https://github.com/EveThan/Multi-Touch-Attribution-Budget-Optimization">Marketing Multi-Touch Attribution & Budget Optimization</a>
 - <a href="https://github.com/EveThan/Google-Merchandise-Store-Conversion-Funnel-Dashboard">Google Merchandise Store — E-commerce Data Conversion Funnel Dashboard</a>
 - <a href="https://github.com/Hyshubham2504/Clustering-Based-Approach-as-an-Alternative-to-Industry-Classification">Clustering-Based Approach as an Alternative to Industry Classification</a>
 #### Award
