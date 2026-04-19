@@ -1,7 +1,5 @@
 ### Hi! 👋
 
-I am Eve (Zheng En) Than!
-
 Here are some of the projects that I have worked on/participated in:
 #### Recent
 - <a href="https://github.com/EveThan/Multi-Touch-Attribution-Budget-Optimization">Marketing Multi-Touch Attribution & Budget Optimization</a>
